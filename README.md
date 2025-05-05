@@ -1,1 +1,0 @@
-# SuperTrunfoAventureiro2.c
